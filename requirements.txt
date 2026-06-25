@@ -1,0 +1,9 @@
+# Streamlit Community Cloud installs this root-level requirements.txt.
+# It mirrors frontend/requirements.txt since frontend/app.py is the deployed entry point.
+streamlit==1.36.0
+python-dotenv==1.0.1
+requests==2.32.3
+pypdf==4.2.0
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+numpy==1.26.4
