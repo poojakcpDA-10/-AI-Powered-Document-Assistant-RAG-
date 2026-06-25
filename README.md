@@ -185,4 +185,4 @@ Sentence-Transformers · FAISS · pypdf · python-dotenv · requests
 ## 8. Live App
 
 _Add your published Streamlit Community Cloud link here, e.g.:_
-`Live app: https://your-app-name.streamlit.app`
+`Live app: https://document-query-assistant-rag.streamlit.app`
