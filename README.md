@@ -182,12 +182,7 @@ Sentence-Transformers · FAISS · pypdf · python-dotenv · requests
 
 ---
 
-## 8. Demo Video
-
-_Add your 3–5 minute demo video link here once recorded, e.g.:_
-`Demo: https://your-video-link`
-
-## 9. Live App
+## 8. Live App
 
 _Add your published Streamlit Community Cloud link here, e.g.:_
 `Live app: https://your-app-name.streamlit.app`
